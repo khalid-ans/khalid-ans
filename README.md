@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khalid-ans
 - 👀 I’m interested in java projects and machine learning projects
-- 🌱 I’m currently learning javascript
+
 - 💞️ I’m looking to collaborate on java, c++ projects
 - 📫 How to reach me Just mail me on my personal mail id @khalidansari477735@gmail.com
 - 😄 Pronouns: Khalid miya
